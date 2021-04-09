@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amtw123456/Tracryptoker/issues"
   },
-  "homepage": "https://github.com/amtw123456/Tracryptoker#readme"
+  "homepage": "https://github.com/amtw123456/Tracryptoker#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
